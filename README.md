@@ -29,3 +29,9 @@ Dette har jeg kun sat op og leget med, men dette tænker jeg vi springer over i 
 Men hvis i vil prøve det og se hvordan det virker er linket her
 
 https://dev.azure.com/luka2193/Kantine
+
+## Andgånde app udvikling.
+
+Har siddet og læst på app udvikling, hvis det er noget i overvejre vil jeg mene at denne side kunne være intrisandt. 
+https://appcenter.ms/users/luka2193-edu.easj.dk/apps/Kantine
+
