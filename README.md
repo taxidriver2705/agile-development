@@ -35,3 +35,8 @@ https://dev.azure.com/luka2193/Kantine
 Har siddet og læst på app udvikling, hvis det er noget i overvejre vil jeg mene at denne side kunne være intrisandt. 
 https://appcenter.ms/users/luka2193-edu.easj.dk/apps/Kantine
 
+Hvis i skal have en template app til ios og android samt pc og mac.
+
+Er dette gratis til at bruge og udvikle vidre på.
+
+https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms
