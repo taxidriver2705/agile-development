@@ -26,4 +26,6 @@ https://www.youtube.com/watch?v=wOCDyv4k4vA&t=407s
 
 Dette har jeg kun sat op og leget med, men dette tænker jeg vi springer over i dette projekt, da der nok let ligger en 10 timmer i det før det vil give mening at bruge dette.
 
-Men hvis i vil prøve det og se hvordan det virker er linket her,
+Men hvis i vil prøve det og se hvordan det virker er linket her
+
+https://dev.azure.com/luka2193/Kantine
