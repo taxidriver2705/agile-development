@@ -16,5 +16,14 @@ Sådan folk er klar over hvad man har lavet.
 Man kan også bruge CMD, eller programmet GIT hvis man vil skrive linux eller mac code.
 Så som når man går frem og tilbage fra folder.
 
-GIT = cd/Forside
-CMD = dir/Forisde
+GIT = cd/Forside.
+
+CMD = dir/Forisde.
+## Har også opsat azure.
+Link til hvorfor man skal bruge dette.
+
+https://www.youtube.com/watch?v=wOCDyv4k4vA&t=407s
+
+Dette har jeg kun sat op og leget med, men dette tænker jeg vi springer over i dette projekt, da der nok let ligger en 10 timmer i det før det vil give mening at bruge dette.
+
+Men hvis i vil prøve det og se hvordan det virker er linket her,
